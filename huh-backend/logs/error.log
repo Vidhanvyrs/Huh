@@ -1,0 +1,48 @@
+[2026-03-21 21:54:31] [31merror[39m: Failed to fetch/parse transcript segment | {"error":"Could not parse timed text from XML response.","url":"https://www.youtube.com/api/timedtext?v=3c-iBn73dDE&ei=Cca-aY3KIPyevcAPrbSCkAs&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1774135417&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=ECCDD417183DDDF2D6416431ECC6D068D0EF5412.8C6342CB518D2137147656A7F7CAEC4BA15ECFD6&key=yt8&kind=asr&lang=en"}
+[2026-03-21 21:54:31] [31merror[39m: explainVideoSegment failed Could not parse timed text from XML response.
+Error: Could not parse timed text from XML response.
+    at fetchTranscriptSegment (/home/batman/Public/huh/huh-backend/src/services/transcript.service.js:79:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async explainVideoSegment (/home/batman/Public/huh/huh-backend/src/controllers/explain.controller.js:17:35)
+[2026-03-21 21:55:06] [31merror[39m: Failed to fetch/parse transcript segment | {"error":"Could not parse timed text from XML response.","url":"https://www.youtube.com/api/timedtext?v=3c-iBn73dDE&ei=Cca-aY3KIPyevcAPrbSCkAs&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1774135417&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=ECCDD417183DDDF2D6416431ECC6D068D0EF5412.8C6342CB518D2137147656A7F7CAEC4BA15ECFD6&key=yt8&kind=asr&lang=en"}
+[2026-03-21 21:55:06] [31merror[39m: explainVideoSegment failed Could not parse timed text from XML response.
+Error: Could not parse timed text from XML response.
+    at fetchTranscriptSegment (/home/batman/Public/huh/huh-backend/src/services/transcript.service.js:79:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async explainVideoSegment (/home/batman/Public/huh/huh-backend/src/controllers/explain.controller.js:17:35)
+[2026-03-21 21:55:51] [31merror[39m: Failed to fetch/parse transcript segment | {"error":"Could not parse timed text from XML response.","url":"https://www.youtube.com/api/timedtext?v=3c-iBn73dDE&ei=Cca-aY3KIPyevcAPrbSCkAs&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1774135417&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=ECCDD417183DDDF2D6416431ECC6D068D0EF5412.8C6342CB518D2137147656A7F7CAEC4BA15ECFD6&key=yt8&kind=asr&lang=en"}
+[2026-03-21 21:55:51] [31merror[39m: explainVideoSegment failed Could not parse timed text from XML response.
+Error: Could not parse timed text from XML response.
+    at fetchTranscriptSegment (/home/batman/Public/huh/huh-backend/src/services/transcript.service.js:79:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async explainVideoSegment (/home/batman/Public/huh/huh-backend/src/controllers/explain.controller.js:17:35)
+[2026-03-21 22:05:32] [31merror[39m: Failed to fetch/parse transcript segment | {"error":"Could not parse timed text from XML response.","url":"https://www.youtube.com/api/timedtext?v=3c-iBn73dDE&ei=Cca-aY3KIPyevcAPrbSCkAs&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1774135417&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=ECCDD417183DDDF2D6416431ECC6D068D0EF5412.8C6342CB518D2137147656A7F7CAEC4BA15ECFD6&key=yt8&kind=asr&lang=en"}
+[2026-03-21 22:05:32] [31merror[39m: explainVideoSegment failed Could not parse timed text from XML response.
+Error: Could not parse timed text from XML response.
+    at fetchTranscriptSegment (/home/batman/Public/huh/huh-backend/src/services/transcript.service.js:72:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async explainVideoSegment (/home/batman/Public/huh/huh-backend/src/controllers/explain.controller.js:17:35)
+[2026-03-21 22:06:06] [31merror[39m: Failed to fetch/parse transcript segment | {"error":"Could not parse timed text from XML response.","url":"https://www.youtube.com/api/timedtext?v=3c-iBn73dDE&ei=Cca-aY3KIPyevcAPrbSCkAs&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1774135417&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=ECCDD417183DDDF2D6416431ECC6D068D0EF5412.8C6342CB518D2137147656A7F7CAEC4BA15ECFD6&key=yt8&kind=asr&lang=en"}
+[2026-03-21 22:06:06] [31merror[39m: explainVideoSegment failed Could not parse timed text from XML response.
+Error: Could not parse timed text from XML response.
+    at fetchTranscriptSegment (/home/batman/Public/huh/huh-backend/src/services/transcript.service.js:72:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async explainVideoSegment (/home/batman/Public/huh/huh-backend/src/controllers/explain.controller.js:17:35)
+[2026-03-21 22:06:07] [31merror[39m: Failed to fetch/parse transcript segment | {"error":"Could not parse timed text from XML response.","url":"https://www.youtube.com/api/timedtext?v=3c-iBn73dDE&ei=Cca-aY3KIPyevcAPrbSCkAs&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1774135417&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=ECCDD417183DDDF2D6416431ECC6D068D0EF5412.8C6342CB518D2137147656A7F7CAEC4BA15ECFD6&key=yt8&kind=asr&lang=en"}
+[2026-03-21 22:06:07] [31merror[39m: explainVideoSegment failed Could not parse timed text from XML response.
+Error: Could not parse timed text from XML response.
+    at fetchTranscriptSegment (/home/batman/Public/huh/huh-backend/src/services/transcript.service.js:72:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async explainVideoSegment (/home/batman/Public/huh/huh-backend/src/controllers/explain.controller.js:17:35)
+[2026-03-21 22:14:12] [31merror[39m: Failed to fetch/parse transcript segment | {"error":"Could not parse timed text from XML response.","url":"https://www.youtube.com/api/timedtext?v=3c-iBn73dDE&ei=xcq-aaydAomq9fwPlv_c8Q0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1774136629&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1916B50155088CA08A4018DD17F60B821685B9F7.C9BEF68CEEB506841789BEE1F5B053244EF4C9A7&key=yt8&kind=asr&lang=en"}
+[2026-03-21 22:14:12] [31merror[39m: explainVideoSegment failed Could not parse timed text from XML response.
+Error: Could not parse timed text from XML response.
+    at fetchTranscriptSegment (/home/batman/Public/huh/huh-backend/src/services/transcript.service.js:100:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async explainVideoSegment (/home/batman/Public/huh/huh-backend/src/controllers/explain.controller.js:17:35)
+[2026-03-22 13:24:30] [31merror[39m: Failed to fetch/parse transcript segment | {"error":"Could not parse timed text from XML response.","url":"https://www.youtube.com/api/timedtext?v=CnXdddeZ4tQ&ei=DaC_adeXPNmEg8UP44e4iQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1774191230&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=88698D69AAF183028D30727D9F5801ADAC6115EF.1E6D364A777D55EBB3570011F33160350AE2036E&key=yt8&kind=asr&lang=en"}
+[2026-03-22 13:24:30] [31merror[39m: explainVideoSegment failed Could not parse timed text from XML response.
+Error: Could not parse timed text from XML response.
+    at fetchTranscriptSegment (/home/batman/Public/huh/huh-backend/src/services/transcript.service.js:100:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async explainVideoSegment (/home/batman/Public/huh/huh-backend/src/controllers/explain.controller.js:17:35)

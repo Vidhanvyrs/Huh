@@ -1,0 +1,33 @@
+{
+    "manifest_version": 3,
+    "name": "Huh? — Video Explainer",
+    "version": "1.0.0",
+    "description": "Explains confusing YouTube video segments instantly using AI.",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "host_permissions": [
+        "https://www.youtube.com/*",
+        "http://localhost:3000/*"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://www.youtube.com/watch*"],
+            "js": ["content.js"],
+            "run_at": "document_idle"
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": ["page_script.js"],
+            "matches": ["https://www.youtube.com/*"]
+        }
+    ]
+}
